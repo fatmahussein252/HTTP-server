@@ -1,6 +1,6 @@
 ## HTTP Server
 
-This repository contains my implementation of a HTTP server in C. The server is capable of handling basic HTTP requests and supports dynamic content generation through CGI script.
+This repository contains my implementation of an HTTP server in C. The server is capable of handling basic HTTP requests and supports dynamic content generation through CGI script.
 
 ### Features
 
